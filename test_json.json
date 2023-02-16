@@ -1,0 +1,19 @@
+{
+  "habits": {
+    "unique_ID_0": {
+      "name": "TEST_NAME",
+      "date_add": "DEC-12-2023",
+      "date_start": "DEC-15-2023",
+      "action_per_day": 2,
+      "results": [
+        "DEC-15-2023",
+        "DEC-16-2023"
+      ],
+      "last_day_success": "DEC-15-2023",
+      "cur_streak_len": 1,
+      "max_streak_len": 1,
+      "last_date_update": "",
+      "last_date_total_actions": 0
+    }
+  }
+}
